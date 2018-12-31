@@ -1,4 +1,4 @@
-# MachineLearningNotes
+# Machine Learning Notes
 This repository contains handwritten notes on several machine learning topics. 
 
 Topics:
